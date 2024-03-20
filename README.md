@@ -36,5 +36,3 @@
   <a href="mailto:saahhh00@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=saahhh00@gmail.com"/></a>
 </p>
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Mihye)](https://github.com/saahhh/github-readme-stats)
